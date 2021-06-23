@@ -1,2 +1,0 @@
-C:\Users\john\Desktop\github\testUuid\testUuid\Release\testUuid.exe
-C:\Users\john\Desktop\github\testUuid\Release\Uuid-shellcodeLoader.exe
